@@ -3,6 +3,7 @@ file 1
 user1
 user 2
 user 11
+<<<<<<< HEAD
 abc 11
 abc 12
 abc 13
@@ -12,3 +13,6 @@ aaa 1
 aaa 2
 aaa 3
 
+=======
+abc 11
+>>>>>>> parent of 2a534ed (abc15)
